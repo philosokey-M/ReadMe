@@ -138,4 +138,4 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
 
 ## 문의
 
-[연락처 정보 추가 필요]
+[연락처 정보 추가 필요.]
